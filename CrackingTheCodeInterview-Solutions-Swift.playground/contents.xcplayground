@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='1.1 Is Unique'/>
+        <page name='1.2 Check Permutations'/>
+        <page name='1.3 URLify'/>
+        <page name='1.4 Palindrome Permutation'/>
+        <page name='1.5  One Way'/>
+        <page name='1.6 String Compresion'/>
+        <page name='2.1 Remove Duplicates'/>
+        <page name='2.2 Return Kth to Last'/>
+        <page name='2.4  Partition'/>
+    </pages>
+</playground>
