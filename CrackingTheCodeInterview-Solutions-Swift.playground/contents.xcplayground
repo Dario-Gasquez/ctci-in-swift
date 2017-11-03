@@ -10,5 +10,6 @@
         <page name='2.1 Remove Duplicates'/>
         <page name='2.2 Return Kth to Last'/>
         <page name='2.4  Partition'/>
+        <page name='3.1 Three stacks in 1 Array'/>
     </pages>
 </playground>
